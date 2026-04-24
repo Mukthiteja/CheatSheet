@@ -1,4 +1,4 @@
-package org.example.Question1;
+package org.example.Question3;
 
 public class LinearSearch {
     static void linearSearch(int[] arr,int x){
